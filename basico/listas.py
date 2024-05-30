@@ -2,8 +2,10 @@
 
 ### LISTS ###
 #No es lo mismo una lista que un arreglo. 
-#Una lista es una forma de agrupar datos.
+#Una lista es una colección ordenada y mutable de elementos. 
 my_list=list()
+
+#Solo corchetes es una lista.
 my_other_list=[]
 
 print(len(my_list))
